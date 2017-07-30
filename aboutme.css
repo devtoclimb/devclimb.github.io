@@ -1,0 +1,31 @@
+h1{
+  padding-left: 14%;
+  font-family: "Megrim";
+  font-size: 50px;
+  float: left;
+}
+.about{
+  width: 30%;
+  padding-left: 10%;
+  font-size: 35px;
+
+}
+
+p{
+  padding-left: 10%;
+  font-family: "Megrim";
+  float: left;
+ 
+}
+
+div.mephoto{
+  position: absolute;
+  float:right;
+  margin: "4px 4px 4px 4px";
+  top:15%;
+  right:5%;
+  width:50%;
+  height:50%;
+  cursor: not-allowed;
+  text-align: center;
+}
