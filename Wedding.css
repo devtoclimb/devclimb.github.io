@@ -5,8 +5,8 @@ body {font-family: Verdana,sans-serif;margin:0}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 75% !important;
-  max-height: 75%;
+  max-width: 70% !important;
+  max-height: 70%;
   position: relative;
   margin: auto;
 }
@@ -93,4 +93,9 @@ body {font-family: Verdana,sans-serif;margin:0}
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
+}
+
+.slideimg{
+  height=100%
+  width=100%
 }
